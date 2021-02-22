@@ -45,6 +45,7 @@ body, html{
   flex-direction: row;
   align-items: flex-start;
   justify-content: space-around;
+  margin: 20px;
 }
 
 .flex-item {
